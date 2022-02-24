@@ -61,4 +61,7 @@ In my free time I love playong footbal with my friends
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Emmabsy&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0C1E2C)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?emmabsy=your-github-emmabsy&layout=compact&theme=vision-friendly-dark)](https://github.com/emmabsy/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmabsy&layout=compact)](https://github.com/emmabsy)![image](https://user-images.githubusercontent.com/50575460/155488267-27fc4e8e-da28-4bca-b48d-35726eebc48f.png)
+
+
 
