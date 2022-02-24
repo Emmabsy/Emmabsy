@@ -11,7 +11,7 @@ Currently Studying Software Engineering.
 I am also working and contributing to projects on Web developement(Backend and Front end).
 In my free time I love playing footbal with my friends 
 
-### 🤝 How to Connect with me:
+### 🤝 Connect with me on:
 ![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
