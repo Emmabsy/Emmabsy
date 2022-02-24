@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+ <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="" alt="my banner"></a>
   
 </p>
 
@@ -8,11 +8,11 @@ Hi there, I'm Emma 👋
 </h3>
 
 <h2 align="center">
-I'm a Software Engineer, Footballer!
+I'm a Software Engineer, Data Science ethusiast and a Footballer!
 </h2> 
 
 Currently Studying Software Engineering.
-I am also working and also contributing to projects on Web developement(Backend and Front end).
+I am also working and contributing to projects on Web developement(Backend and Front end).
 In my free time I love playong footbal with my friends 
 
 ### 🤝 How to Connect with me:
