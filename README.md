@@ -1,7 +1,9 @@
 <p align="center">
  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="" alt="my banner"></a>
-  
 </p>
+<h1 align="center">
+ <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.ilabafrica.ac.ke%2Findex.php%2Fdata-science-unit%2F&psig=AOvVaw2Lot_moR9mdsMb_QQ9FN7Y&ust=1645778678495000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjr3cL5l_YCFQAAAAAdAAAAABAD" />
+</h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
