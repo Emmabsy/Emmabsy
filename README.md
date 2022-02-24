@@ -1,8 +1,4 @@
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 <h3 align="center">
 Hi there, I'm Emma 👋
 </h3>
@@ -16,9 +12,12 @@ I am also working and contributing to projects on Web developement(Backend and F
 In my free time I love playong footbal with my friends 
 
 ### 🤝 How to Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/emma-maikuri-997ba631)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/emma-maikuri-997ba631)
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ## 🔭 I'm currently working on
 
