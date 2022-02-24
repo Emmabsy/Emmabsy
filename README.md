@@ -1,7 +1,4 @@
 
-<h1 align="center">
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bioenergyconsult.com%2Fdata-science-new-emergence%2F&psig=AOvVaw2Lot_moR9mdsMb_QQ9FN7Y&ust=1645778678495000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjr3cL5l_YCFQAAAAAdAAAAABAP" />
-</h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
