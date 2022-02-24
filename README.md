@@ -12,12 +12,11 @@ I am also working and contributing to projects on Web developement(Backend and F
 In my free time I love playong footbal with my friends 
 
 ### 🤝 How to Connect with me:
+![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/emma-maikuri-997ba631)
-
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
-</div>
 
 ## 🔭 I'm currently working on
 
