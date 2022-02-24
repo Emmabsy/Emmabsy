@@ -2,6 +2,9 @@
  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="" alt="my banner"></a>
   
 </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <h3 align="center">
 Hi there, I'm Emma 👋
