@@ -16,7 +16,7 @@ In my free time I love playong footbal with my friends
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 </div>
 
 ## 🔭 I'm currently working on
