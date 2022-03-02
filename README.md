@@ -21,7 +21,6 @@ In my free time I love playing footbal with my friends
 ## 🔭 I'm currently working on
 
 - My School projects
-- A dating App
 - Machine Learning Projects
 - Game development
 
