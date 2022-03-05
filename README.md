@@ -4,7 +4,7 @@ Hi there, I'm Emma 👋
 </h3>
 
 <h2 align="center">
-I'm a Software Engineer, Data Science ethusiast and a Footballer!
+I'm a Software Engineer,Footballer and  Data Science ethusiast!
 </h2> 
 
 Currently Studying Software Engineering.
