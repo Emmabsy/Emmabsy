@@ -9,7 +9,7 @@ I'm a Software Engineer,Footballer and  Data Science ethusiast!
 
 Currently Studying Software Engineering.
 I am also working and contributing to projects on Web developement(Backend and Front end).
-In my free time I love playing footbal with my friends 
+In my free time I love playing footbal with my friends..
 
 ### 🤝 Connect with me on:
 ![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
