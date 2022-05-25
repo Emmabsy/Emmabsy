@@ -7,7 +7,7 @@ Hi there, I'm Emma 👋
 I'm a Software Engineer,Footballer and  Data Science ethusiast!
 </h2> 
 
-Currently Studying Software Engineering.
+Currently Studying Software Engineering in USIU.
 I am also working and contributing to projects on Web developement(Backend and Front end).
 In my free time I love playing football with my friends..
 
