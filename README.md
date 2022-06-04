@@ -2,7 +2,7 @@
 <h3 align="center">
 Hi there, I'm Emma 👋
 </h3>
-<a href="<a href="https://www.google.com/" target="_blank">Google</a>" target="_blank">My Website</a>
+<a href="https://emmabsy.github.io/" target="_blank">My Website</a>
 <h2 align="center">
 I'm a Software Engineer,Footballer and  Data Science ethusiast!
 </h2> 
