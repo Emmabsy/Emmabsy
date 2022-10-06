@@ -31,9 +31,10 @@ In my free time I love playing football with my friends..
 - Block Chain Development
 - Django
 - Cloud Computing
-- Node.js and PHP
+- React
+- Node.js and Express.js
 - Web-Development - HTML, CSS and JS
-- Express.js and React.js
+-Php and Laravel
 - Game development
 - Spring & Spring Boot
 
