@@ -28,12 +28,13 @@ In my free time I love playing football with my friends..
 
 - Machine Learning
 - Data Science with Python
-- React Context API
+- Block Chain Development
 - Django
+-Spring & Spring Boot
 - Cloud Computing
 - Node.js and PHP
 - Web-Development - HTML, CSS and JS
-- Next.js and React.js
+- Express.js and React.js
 - Game development
 
 ## Technical Skills
