@@ -30,12 +30,12 @@ In my free time I love playing football with my friends..
 - Data Science with Python
 - Block Chain Development
 - Django
--Spring & Spring Boot
 - Cloud Computing
 - Node.js and PHP
 - Web-Development - HTML, CSS and JS
 - Express.js and React.js
 - Game development
+- Spring & Spring Boot
 
 ## Technical Skills
 <div>
