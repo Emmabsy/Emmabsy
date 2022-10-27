@@ -4,6 +4,7 @@ Hi there, I'm Emma 👋
 </h3>
 <h2 align="center"> <a href="https://emmabsy.github.io/" target="_blank"> Portfolio 👉 Click Here</a> </h2>
 <h2 align="center">
+ <img src="./img/screenshot.png" alt="">
 I'm a Software Engineer,Footballer and  Data Science ethusiast!
 </h2> 
 
