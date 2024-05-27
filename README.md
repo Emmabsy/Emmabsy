@@ -28,7 +28,6 @@ In my free time I love playing football with my friends..
 
 - Machine Learning
 - Data Science with Python
-- Block Chain Development
 - Django
 - Cloud Computing
 - React
