@@ -4,10 +4,10 @@ Hi there, I'm Emma 👋
 </h3>
 <h2 align="center"> <a href="https://emmabsy.github.io/" target="_blank"> Portfolio 👉 Emmabsy.github.io</a> </h2>
 <h2 align="center">
-I'm a Software Engineer,Footballer and  Data Science ethusiast!
+I am Software Engineer,Footballer and  Data Science ethusiast!
 </h2> 
 
-I am Currently Studying Software Engineering at USIU.
+I am Currently working with Plumbe WholeFoods Limited as a software Developer
 I am also working and contributing to projects on Web developement(Backend and Front end).
 In my free time I love playing football with my friends..
 
@@ -20,13 +20,13 @@ In my free time I love playing football with my friends..
 
 ## 🔭 I'm currently working on
 
-- My School projects
-- Machine Learning Projects
+
+- AI Projects
 - Game development
 
 ## 🌱 I'm currently learning
 
-- Machine Learning
+- Machine Learning and AI
 - Data Science with Python
 - Django
 - Cloud Computing
