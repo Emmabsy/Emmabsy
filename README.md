@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,100:2A7F8E&height=170&section=header&text=Emma%20Maikuri&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Game%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlignY=62" width="100%" alt="Emma B banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,100:2A7F8E&height=170&section=header&text=Emma%20B&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Game%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlignY=62" width="100%" alt="Emma B banner"/>
 
 <h3 align="center">Game Developer • Software Engineer • Full-Stack Developer</h3>
 
