@@ -163,4 +163,8 @@ n8n • Airtable • REST APIs • Agile • Machine learning
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmabsy&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Emmabsy&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,100:2A7F8E&height=100&section=footer" width="100%" alt="footer"/>
