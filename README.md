@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emma</h1>
 
 <h3 align="center">
-Software Engineer • AI Builder • Game Dev Enthusiast ⚽
+Game Developer • Software Engineer • Full-Stack Developer
 </h3>
 
 <p align="center">
-<a href="https://emmabsy.github.io/" target="_blank">
+<a href="https://portfolioemma.vercel.app/" target="_blank">
 🌐 Portfolio
 </a>
 </p>
@@ -14,63 +14,79 @@ Software Engineer • AI Builder • Game Dev Enthusiast ⚽
 
 ### 👩‍💻 About Me
 
-- 💼 Software Developer at **Plumbe WholeFoods Limited**
-- 🧠 Building **AI-powered applications** and scalable systems
-- 🌐 Full-stack developer (Frontend + Backend)
-- 🎮 Exploring **Game Development & Engineering**
+- 🎮 Game and software developer building the systems behind interactive products, from game engine foundations to full-stack web apps
+- ⚙️ **C++20 engine programming:** game loops, entity-component architecture, input systems
+- 🌐 Full-stack developer (frontend and backend) with AI-assisted automation experience
+- 💼 Previously Software Developer & IT Lead at **Plumbee Wholefoods** (2023 – 2026)
 - ⚽ Amateur footballer who loves teamwork on and off the field
 
 ---
 
 ### 🚀 Current Focus
 
-- AI Projects & Automation
-- Game Development
-- Scalable Web Applications
+- C++ game engine development
+- AI projects and workflow automation
+- Full-stack web applications and products
+
+---
+
+### 🧱 What I've Built
+
+- 🎮 A C++ game engine from scratch (CMake, GLFW, OpenGL)
+- 🚀 **PromptGuide**, **ResumePro** and **LaunchKit**
+- 🔁 **n8n workflows** published on Gumroad
+- 🏭 Business systems, websites and automations for a food-manufacturing company
 
 ---
 
 ### 📚 Currently Learning
 
-- Machine Learning & AI
-- Data Science with Python
-- Cloud Computing
-- Django & Spring Boot
-- React, Node.js & Express
-- PHP & Laravel
-- Game Engineering
+- Game engine architecture and graphics programming
+- Unreal Engine 5
+- Machine learning and AI
+- Cloud computing (AWS, Google Cloud, Azure)
 
 ---
 
 ### 🛠️ Tech Stack
 
+**Languages:** C++, Java, Python, PHP, JavaScript, TypeScript, SQL
+
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" title="Django" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" title="Spring" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" title="Unreal Engine" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" title="CMake" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40"/>
 </p>
+
+**Also:** OpenGL, GLFW, n8n, Airtable, REST APIs, Agile, AWS, Google Cloud, Azure
 
 ---
 
 ### 🤝 Connect With Me
 
 <p>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://portfolioemma.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-1F3A5F?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:maikuriemma@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/emma-maikuri-997ba631">
@@ -83,7 +99,7 @@ Software Engineer • AI Builder • Game Dev Enthusiast ⚽
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Emmabsy&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Emmabsy&theme=dark&hide_border=true"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmabsy&layout=compact"/>
 </p>
